@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1681112298 source:g:\1. programacion 1\projectos\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 g:\1. programacion 1\projectos\funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:g:\1. programacion 1\projectos\funciones\pila.c
+	"pila.h"
+
+1681112298 source:d:\1. programacion 1\projectos\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 d:\1. programacion 1\projectos\funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:d:\1. programacion 1\projectos\funciones\pila.c
+	"pila.h"
+
+1681112298 source:h:\1. programacion 1\projectos\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 h:\1. programacion 1\projectos\funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:h:\1. programacion 1\projectos\funciones\pila.c
+	"pila.h"
+
